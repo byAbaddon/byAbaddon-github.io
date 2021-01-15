@@ -4,6 +4,11 @@ body {
     background: #0E1013;
 }
 
+
+h1{
+color:grey;
+}
+
 .container {
     width: 200px;
     height: 100px;
