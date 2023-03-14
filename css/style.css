@@ -13,6 +13,10 @@ h1 {
     text-transform: uppercase;
 }
 
+.buffer {
+background: black;
+}
+
 .conteiner {
     width: 200px;
     height: 100px;
