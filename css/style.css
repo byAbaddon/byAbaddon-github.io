@@ -87,6 +87,7 @@ td {
 color: crimson;
 font-weight: bold;
 background: azure;
+padding: 0 5px 0 5px; 
 }
 
 a {
@@ -97,7 +98,6 @@ table, th, td {
   border: 1px solid teal;
   width:450px;
   height: 1em;  
-  padding: 0 5px 0 5px; 
-    
+   
 }
 
