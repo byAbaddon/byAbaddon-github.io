@@ -68,7 +68,10 @@ background: #4d407c;
  
  }
 
-
+container {
+    display: flex;
+    justify-content: space-evenly;
+}
 
 .table {
 margin-left: 2em;
