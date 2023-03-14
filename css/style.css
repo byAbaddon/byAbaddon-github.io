@@ -73,15 +73,12 @@ container {
     justify-content: space-evenly;
 }
 
-.table {
-margin-left: 2em;
-}
-
 
 table, th, td {
   border: 1px solid teal;
   padding: 2px;
-  width:450px
+  width:450px;
+    
 }
 
 th {
