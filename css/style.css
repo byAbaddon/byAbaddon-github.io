@@ -85,11 +85,14 @@ width: 100%;
 background: darkslateblue;
 color: white;
 }
+
 td {
 color: crimson;
 font-weight: bold;
 }
 
-
+a {
+ float:right;
+}
 
 
