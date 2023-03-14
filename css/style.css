@@ -74,7 +74,9 @@ background: #4d407c;
 container {
     display: flex;
     justify-content: space-evenly;
-    flex-wrap: wrap; 
+    flex-wrap: wrap;
+    /* column-gap: 2em; */
+    row-gap: 2em;
 }
 
 table, th, td {
