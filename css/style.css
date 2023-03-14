@@ -76,6 +76,12 @@ container {
     justify-content: space-evenly;
 }
 
+table, th, td {
+  border: 1px solid teal;
+  width:450px;
+  height: 1em;  
+   
+}
 
 th {
 width: 100%;
@@ -94,10 +100,5 @@ a {
  float:right;
 }
 
-table, th, td {
-  border: 1px solid teal;
-  width:450px;
-  height: 1em;  
-   
-}
+
 
