@@ -6,8 +6,11 @@ body {
 }
 
 
-h1{
-color: antiquewhite;
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
 }
 
 .container {
@@ -74,14 +77,6 @@ container {
 }
 
 
-table, th, td {
-  border: 1px solid teal;
-  width:450px;
-  height: 1em;  
-  padding: 0 5px 0 5px; 
-    
-}
-
 th {
 width: 100%;
 background: darkslateblue;
@@ -98,4 +93,11 @@ a {
  float:right;
 }
 
+table, th, td {
+  border: 1px solid teal;
+  width:450px;
+  height: 1em;  
+  padding: 0 5px 0 5px; 
+    
+}
 
