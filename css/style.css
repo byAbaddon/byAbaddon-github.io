@@ -94,6 +94,7 @@ th {
 width: 100%;
 background: darkslateblue;
 color: white;
+text-transform: uppercase;    
 }
 
 td {
