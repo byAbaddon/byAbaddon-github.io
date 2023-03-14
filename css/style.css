@@ -76,13 +76,14 @@ container {
 
 table, th, td {
   border: 1px solid teal;
-  padding: 2px;
   width:450px;
+  padding: 0 5px 0 5px; 
     
 }
 
 th {
 width: 100%;
+heihth: 1em;
 background: darkslateblue;
 color: white;
 }
