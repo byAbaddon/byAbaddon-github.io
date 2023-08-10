@@ -21,7 +21,7 @@ background: gold;
 }
 
 
-.conteiner {
+.container {
     width: 200px;
     height: 100px;
     /* padding-top: 200px; */
@@ -79,13 +79,21 @@ background: #4d407c;
  
  }
 
-container {
+container{
     display: flex;
-    justify-content: space-evenly;
     flex-wrap: wrap;
-    /* column-gap: 2em; */
-    row-gap: 2em;
+    justify-content: space-around;
 }
+
+
+table {
+    max-width: 400px;
+    max-height: 1em;
+    min-width: 400px;
+    min-height: 1em;
+    border: 1px solid teal;
+}
+
 
 table, th, td {
   border: 1px solid teal;
@@ -93,6 +101,9 @@ table, th, td {
   height: 1em;  
    
 }
+
+
+
 
 th {
 width: 100%;
@@ -114,3 +125,25 @@ a {
 
 
 
+.spa{
+    color: black;
+ }
+.vue{
+    color: darkgreen;
+    font-weight: bold;
+}
+ .number {
+    color:#ff7c35;
+ }
+
+ .pygame {
+    color: goldenrod;
+ }
+
+ .phaser{
+    color:fuchsia;
+ }
+
+ .frame {
+    color: black;
+ }
